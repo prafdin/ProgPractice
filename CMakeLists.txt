@@ -19,4 +19,4 @@ endif()
 
 
 add_subdirectory(practice1)
-
+add_subdirectory(practice2)
